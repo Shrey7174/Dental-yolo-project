@@ -1,0 +1,39 @@
+train: ./data/images/train
+val: ./data/images/val
+test: ./data/images/test
+
+nc: 32
+
+names:
+  0: 'Canine (13)'
+  1: 'Canine (23)'
+  2: 'Canine (33)'
+  3: 'Canine (43)'
+  4: 'Central Incisor (21)'
+  5: 'Central Incisor (41)'
+  6: 'Central Incisor (31)'
+  7: 'Central Incisor (11)'
+  8: 'First Molar (16)'
+  9: 'First Molar (26)'
+  10: 'First Molar (36)'
+  11: 'First Molar (46)'
+  12: 'First Premolar (14)'
+  13: 'First Premolar (34)'
+  14: 'First Premolar (44)'
+  15: 'First Premolar (24)'
+  16: 'Lateral Incisor (22)'
+  17: 'Lateral Incisor (32)'
+  18: 'Lateral Incisor (42)'
+  19: 'Lateral Incisor (12)'
+  20: 'Second Molar (17)'
+  21: 'Second Molar (27)'
+  22: 'Second Molar (37)'
+  23: 'Second Molar (47)'
+  24: 'Second Premolar (15)'
+  25: 'Second Premolar (25)'
+  26: 'Second Premolar (35)'
+  27: 'Second Premolar (45)'
+  28: 'Third Molar (18)'
+  29: 'Third Molar (28)'
+  30: 'Third Molar (38)'
+  31: 'Third Molar (48)'

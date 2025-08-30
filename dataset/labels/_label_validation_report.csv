@@ -1,0 +1,5 @@
+image_stem,issue_type,details
+cate2-00029_jpg.rf.18be40d73e21136c043b185eece71e07,BAD_LINE,line 2 not 5 cols
+cate2-00109_jpg.rf.4f7ba9a179030058bf19f2f8cb3958b1,BAD_LINE,line 31 not 5 cols
+cate2-00109_jpg.rf.4f7ba9a179030058bf19f2f8cb3958b1,BAD_LINE,line 32 not 5 cols
+cate5-00030_jpg.rf.004b42c07455ba42f53a07a344cc4109,BAD_LINE,line 1 not 5 cols

@@ -31,14 +31,14 @@ The final model, augmented by the post-processing logic, demonstrates highly acc
 
 ### Visual Showcase
 
-![Showcase of model performance on a clear case](assets/perfect_case.jpg)
-*Figure 1: High-confidence detection and classification on a near-complete set of teeth, showcasing the model's primary accuracy.*
-
-![Model performance on a challenging case](assets/challenging_case.jpg)
-*Figure 2: The model's robustness is demonstrated on a more challenging X-ray with slight overlaps, yet still maintaining high accuracy.*
+![Showcase of model performance on a case](assets/perfect_case.jpg)
+*Figure 1: High-confidence detection and classification on a near-complete set of teeth, showcasing the model's accuracy.*
 
 ![Final result after post-processing](assets/post_processed_result.jpg)
-*Figure 3: A final, cleaned output. The anatomical post-processing filter ensures that all displayed predictions are clinically plausible.*
+*Figure 2: A cleaned output. The anatomical post-processing filter ensures that all displayed predictions are clinically plausible.*
+
+![Final result after post-processing](assets/post_processed_result2.jpg)
+*Figure 3: A cleaned output. The anatomical post-processing filter ensures that all displayed predictions are clinically plausible.*
 
 ---
 
@@ -77,7 +77,7 @@ Follow these steps to set up the environment and run the project pipeline.
 
 **Clone the repository:**
 ```bash
-git clone [Link to Your GitHub Repository Here]
+git clone https://github.com/Shrey7174/Dental-yolo-project.git
 cd dental-yolo-project
 ```
 

@@ -21,24 +21,27 @@ The primary goal is to automate the identification and labeling of teeth from X-
 The final model, augmented by the post-processing logic, demonstrates highly accurate and clinically relevant performance.
 
 ### Performance Metrics
- 
-| Metric        | Score |
-| :---          | :---  |
-| **mAP@50**    | **0.955** |
+
+| Metric | Score |
+| :--- | :--- |
+| **mAP@50** | **0.955** |
 | **mAP@50-95** | 0.665 |
 | **Precision** | 0.915 |
-| **Recall**    | 0.921 |
+| **Recall** | 0.921 |
 
 ### Visual Showcase
 
 ![Showcase of model performance on a case](assets/perfect_case.jpg)
+
 *Figure 1: High-confidence detection and classification on a near-complete set of teeth, showcasing the model's accuracy.*
 
 ![Final result after post-processing](assets/post_processed_result.jpg)
+
 *Figure 2: A cleaned output. The anatomical post-processing filter ensures that all displayed predictions are clinically plausible.*
 
 ![Final result after post-processing](assets/post_processed_result2.jpg)
-*Figure 3: A cleaned output. The anatomical post-processing filter ensures that all displayed predictions are clinically plausible.*
+
+*Figure 3: A second example of a cleaned output, demonstrating the model's reliability across different cases.*
 
 ---
 
@@ -77,7 +80,7 @@ Follow these steps to set up the environment and run the project pipeline.
 
 **Clone the repository:**
 ```bash
-git clone https://github.com/Shrey7174/Dental-yolo-project.git
+git clone [https://github.com/Shrey7174/Dental-yolo-project.git](https://github.com/Shrey7174/Dental-yolo-project.git)
 cd dental-yolo-project
 ```
 
